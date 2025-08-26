@@ -4,6 +4,7 @@ using Aula03Colecoes.Models.Enuns;
 
 namespace Aula03Colecoes
 {
+    //Comentário no início da classe Program.cs
     public class Program
     {
         static List<Funcionario> lista = new List<Funcionario>();

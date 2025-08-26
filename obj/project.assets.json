@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\etechas\\.nuget\\packages\\": {},
+    "C:\\Users\\Luizs\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Local\\2DS\\DS\\A03\\Aula03Colecoes\\Aula03Colecoes.csproj",
+      "projectUniqueName": "D:\\Work\\Etec\\2025-2_2DS_DS\\Aula03Colecoes\\Aula03Colecoes.csproj",
       "projectName": "Aula03Colecoes",
-      "projectPath": "D:\\Local\\2DS\\DS\\A03\\Aula03Colecoes\\Aula03Colecoes.csproj",
-      "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\Local\\2DS\\DS\\A03\\Aula03Colecoes\\obj\\",
+      "projectPath": "D:\\Work\\Etec\\2025-2_2DS_DS\\Aula03Colecoes\\Aula03Colecoes.csproj",
+      "packagesPath": "C:\\Users\\Luizs\\.nuget\\packages\\",
+      "outputPath": "D:\\Work\\Etec\\2025-2_2DS_DS\\Aula03Colecoes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\etechas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Luizs\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -52,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
